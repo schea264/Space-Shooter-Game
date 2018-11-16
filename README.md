@@ -1,5 +1,7 @@
 # Space Shooter Game
 
+Project done by Steven Chea
+
 Tutorial Link: https://unity3d.com/learn/tutorials/s/space-shooter-tutorial
 
 This is a 3D arcade-style space shooter game. Use the arrow keys to control the ship, and press CTRL to fire lasers. Gain points by destroying the asteroids.
